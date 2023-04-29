@@ -1,4 +1,4 @@
-# credstash-vs-chamber
+# Credstash vs Chamber
 
 List of similarities, differences, advantages, and disadvantages for CredStash and Chamber:
 
